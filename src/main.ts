@@ -1,7 +1,6 @@
 /// <reference types="@workadventure/iframe-api-typings" />
 
-// import { bootstrapExtra } from "@workadventure/scripting-api-extra";
-import { } from "https://unpkg.com/@workadventure/scripting-api-extra@^1";
+import { bootstrapExtra } from "@workadventure/scripting-api-extra";
 
 console.log('Script started successfully');
 
