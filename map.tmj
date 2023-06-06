@@ -4939,7 +4939,7 @@
         {
          "columns":6,
          "firstgid":1,
-         "image":"..\/..\/..\/..\/Downloads\/my-map2-main\/src\/assets\/special_zones.png",
+         "image":"tilesets\/special_zones.png",
          "imageheight":68,
          "imagewidth":204,
          "margin":1,
