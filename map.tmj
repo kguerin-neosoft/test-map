@@ -4291,7 +4291,7 @@
         {
          "columns":10,
          "firstgid":5038,
-         "image":"..\/..\/..\/..\/Downloads\/my-map2-main\/src\/assets\/GuttyKreumNatureTiles.png",
+         "image":"tilesets\/GuttyKreumNatureTiles.png",
          "imageheight":476,
          "imagewidth":340,
          "margin":1,
@@ -4526,7 +4526,7 @@
         {
          "columns":16,
          "firstgid":13130,
-         "image":"..\/..\/..\/..\/Downloads\/my-map2-main\/src\/assets\/9_Fishing_32x32.png",
+         "image":"tilesets\/9_Fishing_32x32.png",
          "imageheight":918,
          "imagewidth":544,
          "margin":1,
@@ -4578,7 +4578,7 @@
         {
          "columns":13,
          "firstgid":14452,
-         "image":"..\/..\/..\/..\/Downloads\/my-map2-main\/src\/assets\/WA_User_Interface.png",
+         "image":"..\/my-map2-main\/src\/assets\/WA_User_Interface.png",
          "imageheight":714,
          "imagewidth":442,
          "margin":1,
@@ -4618,7 +4618,7 @@
         {
          "columns":3,
          "firstgid":15717,
-         "image":"..\/..\/..\/..\/Downloads\/my-map2-main\/src\/assets\/animated_amplifier_big_32x32.png",
+         "image":"tilesets\/animated_amplifier_big_32x32.png",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
@@ -4681,7 +4681,7 @@
         {
          "columns":5,
          "firstgid":15726,
-         "image":"..\/..\/..\/..\/Downloads\/my-map2-main\/src\/assets\/Ash_idle_32x32.png",
+         "image":"tilesets\/Ash_idle_32x32.png",
          "imageheight":64,
          "imagewidth":160,
          "margin":0,
@@ -4869,7 +4869,7 @@
         {
          "columns":7,
          "firstgid":16176,
-         "image":"..\/..\/..\/..\/Downloads\/my-map2-main\/src\/assets\/N\u00e9osoft_logo_blanc.png",
+         "image":"..\/my-map2-main\/src\/assets\/N\u00e9osoft_logo_blanc.png",
          "imageheight":64,
          "imagewidth":224,
          "margin":0,
@@ -4882,7 +4882,7 @@
         {
          "columns":4,
          "firstgid":16190,
-         "image":"..\/..\/..\/..\/Downloads\/my-map2-main\/src\/assets\/Newcolor.png",
+         "image":"..\/my-map2-main\/src\/assets\/Newcolor.png",
          "imageheight":64,
          "imagewidth":128,
          "margin":0,
@@ -4895,7 +4895,7 @@
         {
          "columns":8,
          "firstgid":16198,
-         "image":"..\/..\/..\/..\/Downloads\/my-map2-main\/src\/assets\/fdn.png",
+         "image":"tilesets\/fdn.png",
          "imageheight":128,
          "imagewidth":256,
          "margin":0,
