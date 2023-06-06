@@ -4245,7 +4245,7 @@
         {
          "columns":6,
          "firstgid":1,
-         "image":"..\/..\/..\/..\/Downloads\/my-map2-main\/src\/assets\/special_zones.png",
+         "image":"tilesets\/special_zones.png",
          "imageheight":68,
          "imagewidth":204,
          "margin":1,
@@ -4565,7 +4565,7 @@
         {
          "columns":5,
          "firstgid":14342,
-         "image":"..\/..\/..\/..\/Downloads\/my-map2-main\/src\/assets\/posters.png",
+         "image":"tilesets\/posters.png",
          "imageheight":748,
          "imagewidth":170,
          "margin":1,
@@ -4578,7 +4578,7 @@
         {
          "columns":13,
          "firstgid":14452,
-         "image":"..\/my-map2-main\/src\/assets\/WA_User_Interface.png",
+         "image":"tilesets\/WA_User_Interface.png",
          "imageheight":714,
          "imagewidth":442,
          "margin":1,
@@ -4695,7 +4695,7 @@
         {
          "columns":20,
          "firstgid":15736,
-         "image":"..\/my-map2-main\/src\/assets\/info.png",
+         "image":"tilesets\/info.png",
          "imageheight":192,
          "imagewidth":640,
          "margin":0,
@@ -4758,7 +4758,7 @@
         {
          "columns":7,
          "firstgid":15856,
-         "image":"..\/my-map2-main\/src\/assets\/N\u00e9osoft_logo_blanc.png",
+         "image":"tilesets\/N\u00e9osoft_logo_blanc.png",
          "imageheight":64,
          "imagewidth":224,
          "margin":0,
@@ -4771,7 +4771,7 @@
         {
          "columns":4,
          "firstgid":15870,
-         "image":"..\/my-map2-main\/src\/assets\/Newcolor.png",
+         "image":"tilesets\/Newcolor.png",
          "imageheight":64,
          "imagewidth":128,
          "margin":0,
